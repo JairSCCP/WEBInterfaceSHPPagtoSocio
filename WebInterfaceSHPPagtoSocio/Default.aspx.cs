@@ -33,6 +33,7 @@ namespace WebInterfaceSHPPagtoSocio
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            // INCLUSÃO DE ALTERAÇÃO PARA TESTE DO GIT - JAIR 01/06/2020
             Label1.Text = DataFin.SelectedDate + " " + DataIni.SelectedDate;
             string wRet = GerarRegistroContasJson(DataIni.SelectedDate, DataFin.SelectedDate);
         }
