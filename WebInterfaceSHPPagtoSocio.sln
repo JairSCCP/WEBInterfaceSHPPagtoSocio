@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebInterfaceSHPPagtoSocio", "WebInterfaceSHPPagtoSocio\WebInterfaceSHPPagtoSocio.csproj", "{5C4AE2EF-25EA-4F69-AFF4-878F1CF46C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4AE2EF-25EA-4F69-AFF4-878F1CF46C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4AE2EF-25EA-4F69-AFF4-878F1CF46C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4AE2EF-25EA-4F69-AFF4-878F1CF46C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4AE2EF-25EA-4F69-AFF4-878F1CF46C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B0C87C-5855-45AD-9D3B-D8C763E38F9A}
+	EndGlobalSection
+EndGlobal
